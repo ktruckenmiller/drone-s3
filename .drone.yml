@@ -2,3 +2,6 @@ pipeline:
   test:
     pull: true
     image: ktruckenmiller/drone-s3
+    boston:
+      - stuff: things
+        shoey: beoy
