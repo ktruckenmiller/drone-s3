@@ -1,0 +1,4 @@
+pipeline:
+  test:
+    pull: true
+    image: ktruckenmiller/drone-s3
