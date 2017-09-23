@@ -12,4 +12,4 @@ time.sleep(3)
 
 print("got imports")
 time.sleep(3)
-except Exception("bosnton")
+raise Exception("bosnton")
